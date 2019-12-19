@@ -1,6 +1,6 @@
-# 500Taxi
+# TimelyTaxi
 
-500 taxi provides users with the most convenient taxi service.
+timely taxi provides users with the most convenient taxi service.
 
 1. Just need two simple steps to call a taxi
 
@@ -9,3 +9,4 @@
 3. Provide a service center number to help you
 
 If you have any problems with our services or applications while using the app, please contact us.
+
